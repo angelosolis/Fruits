@@ -1,0 +1,8 @@
+C:\Users\solis\source\repos\Fruits\Fruits\bin\Debug\Fruits.exe.config
+C:\Users\solis\source\repos\Fruits\Fruits\bin\Debug\Fruits.exe
+C:\Users\solis\source\repos\Fruits\Fruits\bin\Debug\Fruits.pdb
+C:\Users\solis\source\repos\Fruits\Fruits\obj\Debug\Fruits.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Fruits\Fruits\obj\Debug\Fruits.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Fruits\Fruits\obj\Debug\Fruits.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Fruits\Fruits\obj\Debug\Fruits.exe
+C:\Users\solis\source\repos\Fruits\Fruits\obj\Debug\Fruits.pdb
